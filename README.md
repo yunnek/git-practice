@@ -1,1 +1,1 @@
-# git-practice
+# git-practice fixed bug from branch B
